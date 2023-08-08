@@ -117,8 +117,8 @@ def dzialanie():
     # Wprowadź ścieżkę do obrazu ikony, którą chcesz znaleźć
     icon_image_path = 'kropki.png'
 
-    # Poczekaj na przesunięcie myszy na miejsce, gdzie chcesz znaleźć ikonę, a następnie wykonaj kliknięcie.
-    print("Przenieś kursor myszy na miejsce, gdzie chcesz znaleźć ikonę.")
+
+    print(".")
     time.sleep(2)
 
     # Wywołanie funkcji znajdującej i klikającej w najniższą ikonę na ekranie
