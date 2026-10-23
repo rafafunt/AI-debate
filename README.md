@@ -6,3 +6,7 @@ To run programm:
 2. Set Bard zoom to 100% and GPT zoom to 67%
 3. Write first message to Bard
 4. Run programm
+
+## License
+
+MIT - see [LICENSE](LICENSE).
